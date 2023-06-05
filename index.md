@@ -3,7 +3,7 @@ Table Discovery in Data Lakes: State-of-the-art and Future
 Directions
 
 ---
-x
+
 Abstract
 --------
 
@@ -21,4 +21,4 @@ Authors
 
 Citations
 ---------
-<script src="https://bibbase.org/show?bib=https://dblp.org/pid/m/RJMiller.bib&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Fnortheastern-datalab%2Ftable-discovery-tutorial-slides%2Fmain%2Fcitations.bib&commas=true&jsonp=1"></script>
