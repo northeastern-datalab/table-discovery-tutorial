@@ -2,7 +2,8 @@
 Table Discovery in Data Lakes: State-of-the-art and Future
 Directions
 ---
- 
+Tutorial presented at SIGMOD 2023 on Sunday, June 18, 1:30 pm – 3:00 pm.
+
 Abstract
 --------
 
